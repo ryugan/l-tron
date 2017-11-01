@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+
+    <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+          asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+          asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
+            asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+            asp-fallback-test="window.jQuery"
+            crossorigin="anonymous"
+            integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+    </script>
+    <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+            asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+            asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+            crossorigin="anonymous"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+    </script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</head>
+<body class="tron-body">
+    <header>
+        <div class="container">
+            <h1 id="header-title" class="tron-header-title"></h1>
+            <h2 id="header-subtitle" class="tron-header-subtitle">
+                Menu Principal
+            </h2>
+        </div>
+    </header>
+    <div class="container">
+        <div id="menu" class="tron-menu col-lg-6 col-lg-offset-3">
+            <div class="row">
+                <button type="button" class="btn-menu btn tron-btn col-lg-4 col-lg-offset-4">Un joueur</button>
+            </div>
+            <div class="row">
+                <button type="button" class="btn-menu btn tron-btn col-lg-4 col-lg-offset-4">Multi - Local</button>
+            </div>
+            <div class="row">
+                <button type="button" class="btn-menu btn tron-btn col-lg-4 col-lg-offset-4">Multi - Lan</button>
+            </div>
+            <div class="row">
+                <button type="button" class="btn-menu btn tron-btn col-lg-4 col-lg-offset-4">Option</button>
+            </div>
+            <div class="row">
+                <button type="button" class="btn-menu btn tron-btn col-lg-4 col-lg-offset-4">Quitter</button>
+            </div>
+        </div>
+    </div>
+    <input type="hidden" class="main-press" />
+</body>
+</html>

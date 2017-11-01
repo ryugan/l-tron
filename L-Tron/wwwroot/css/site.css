@@ -1,0 +1,97 @@
+﻿/* General */
+header {
+    height: 200px;
+}
+
+#header-title {
+    font-weight: bold;
+    text-align: center;
+}
+
+#header-subtitle {
+    font-weight: bold;
+    text-align: center;
+}
+
+#menu {
+    height: 400px;
+}
+
+.btn-menu{
+    height: 80px;
+}
+
+/* Tron */
+.tron-body {
+    background-color: darkgray;
+}
+
+.tron-header-title {
+    font-size: 70px;
+    color: #09517d;
+    font-family: 'OCR A';
+}
+
+.tron-header-subtitle {
+    font-size: 50px;
+    color: #C00000;
+    font-family: 'OCR A';
+}
+
+.tron-menu {
+    background-color: lightgray;
+}
+
+.tron-btn {
+    border-color: darkblue;
+    max-width: 38%;
+    background-color: dodgerblue;
+    font-size: 20px;
+    color: black;
+    font-family: 'OCR A';
+}
+
+.tron-btn:hover {
+    border-color: dodgerblue;
+    background-color: blue;
+    color: white;
+}
+
+/* Snake */
+.snake-body {
+    background-color: saddlebrown;
+}
+
+.snake-header-title {
+    padding-top: 40px;
+    font-size: 80px;
+    color: #053201;
+    font-family: fantasy;
+}
+
+.snake-header-subtitle {
+    margin-top: 0px;
+    font-size: 60px;
+    color: #6B0900;
+    font-family: fantasy;
+}
+
+.snake-menu {
+    background-color: #4d2605;
+}
+
+.snake-btn {
+    border-color: #053201;
+    max-width: 35%;
+    padding-top: 25px;
+    background-color: darkgreen;
+    font-size: 30px;
+    color: black;
+    font-family: fantasy;
+}
+
+.snake-btn:hover {
+    border-color: darkgreen;
+    background-color: green;
+    color: white;
+}

@@ -1,0 +1,11 @@
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\bin\Debug\netcoreapp2.0\L-Tron.deps.json
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\bin\Debug\netcoreapp2.0\L-Tron.runtimeconfig.json
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\bin\Debug\netcoreapp2.0\L-Tron.runtimeconfig.dev.json
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\bin\Debug\netcoreapp2.0\L-Tron.dll
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\bin\Debug\netcoreapp2.0\L-Tron.pdb
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\obj\Debug\netcoreapp2.0\L-Tron.csprojResolveAssemblyReference.cache
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\obj\Debug\netcoreapp2.0\L-Tron.csproj.CoreCompileInputs.cache
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\obj\Debug\netcoreapp2.0\L-Tron.AssemblyInfoInputs.cache
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\obj\Debug\netcoreapp2.0\L-Tron.AssemblyInfo.cs
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\obj\Debug\netcoreapp2.0\L-Tron.dll
+C:\Users\ryugan\Source\repos\L-Tron\L-Tron\obj\Debug\netcoreapp2.0\L-Tron.pdb

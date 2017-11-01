@@ -1,0 +1,47 @@
+﻿{
+  "speed": "2.75",
+  "playerCount": "2",
+  "musicDirectory": "E:\\Dropbox\\L-Tron\\L-Tron\\L-Tron\\Music\\",
+  "listJoueurs": [
+    {
+      "number": "1",
+      "pseudo": "Ryugan",
+      "motorbikeColor": "Blue",
+      "upKey": "Z",
+      "downKey": "S",
+      "leftKey": "Q",
+      "rightKey": "D",
+      "speedKey": "LeftCtrl"
+    },
+    {
+      "number": "2",
+      "pseudo": "Tonixx",
+      "motorbikeColor": "Red",
+      "upKey": "Up",
+      "downKey": "Down",
+      "leftKey": "Left",
+      "rightKey": "Right",
+      "speedKey": "RightCtrl"
+    },
+    {
+      "number": "3",
+      "pseudo": "Neko",
+      "motorbikeColor": "Yellow",
+      "upKey": "NumPad8",
+      "downKey": "NumPad5",
+      "leftKey": "NumPad4",
+      "rightKey": "NumPad6",
+      "speedKey": "NumPad0"
+    },
+    {
+      "number": "4",
+      "pseudo": "Babel",
+      "motorbikeColor": "Magenta",
+      "upKey": "I",
+      "downKey": "K",
+      "leftKey": "J",
+      "rightKey": "L",
+      "speedKey": "N"
+    }
+  ]
+}

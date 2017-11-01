@@ -1,0 +1,9 @@
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.deps.json
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.dll
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfo.cs
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.dll
+C:\Users\ryugan\Source\repos\l-tron\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.pdb
