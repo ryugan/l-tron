@@ -13248,11 +13248,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryugan\\Source\\repos\\L-Tron\\L-Tron\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\L-Tron\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\ryugan\\Source\\repos\\L-Tron\\L-Tron\\Web.csproj",
+      "projectPath": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\L-Tron\\Web.csproj",
       "packagesPath": "C:\\Users\\ryugan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryugan\\Source\\repos\\L-Tron\\L-Tron\\obj\\",
+      "outputPath": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\L-Tron\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

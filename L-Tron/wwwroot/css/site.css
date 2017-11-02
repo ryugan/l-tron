@@ -51,7 +51,7 @@ header {
     font-family: 'OCR A';
 }
 
-.tron-btn:hover {
+.tron-btn:hover:enabled {
     border-color: dodgerblue;
     background-color: blue;
     color: white;
@@ -90,7 +90,7 @@ header {
     font-family: fantasy;
 }
 
-.snake-btn:hover {
+.snake-btn:hover:enabled {
     border-color: darkgreen;
     background-color: green;
     color: white;

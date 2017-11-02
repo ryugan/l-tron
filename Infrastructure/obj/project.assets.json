@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryugan\\Source\\repos\\l-tron\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\ryugan\\Source\\repos\\l-tron\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ryugan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryugan\\Source\\repos\\l-tron\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

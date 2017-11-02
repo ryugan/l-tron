@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryugan\\Source\\repos\\l-tron\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "C:\\Users\\ryugan\\Source\\repos\\l-tron\\ApplicationCore\\ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\ApplicationCore\\ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\ryugan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryugan\\Source\\repos\\l-tron\\ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\ryugan\\Source\\Repos\\l-tron\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
